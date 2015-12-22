@@ -8,9 +8,68 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context=".MainActivity" >
 
-    <TextView
-        android:layout_width="wrap_content"
+    <LinearLayout
+        android:id="@+id/frame"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/hello_world" />
+        android:orientation="vertical">
+
+    </LinearLayout>
+    <RadioGroup
+        android:id="@+id/radiogroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/map"
+            android:button="@null"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:background="@drawable/radio_pressed"
+            android:drawableTop="@drawable/ic_launcher"
+            android:text="@string/map"
+            />
+
+        <RadioButton
+            android:id="@+id/zhinanzheng"
+            android:layout_width="0dp"
+            android:button="@null"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:background="@drawable/radio_pressed"
+            android:drawableTop="@drawable/ic_launcher"
+            android:text="@string/zhinanzheng"
+            />
+        <RadioButton
+            android:id="@+id/weather"
+            android:layout_width="0dp"
+            android:button="@null"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:background="@drawable/radio_pressed"
+            android:drawableTop="@drawable/ic_launcher"
+            android:text="@string/weather"
+            />
+        <RadioButton
+            android:id="@+id/more"
+            android:layout_width="0dp"
+            android:button="@null"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:background="@drawable/radio_pressed"
+            android:drawableTop="@drawable/ic_launcher"
+            android:text="@string/more"
+
+        />
+
+    </RadioGroup>
 
 </RelativeLayout>

@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="gray">#88000000</color>
+    <color name="white">#ffffff</color>
     <declare-styleable name="ButtonBarContainerTheme"><attr format="reference" name="buttonBarStyle"/><attr format="reference" name="buttonBarButtonStyle"/></declare-styleable>
     <declare-styleable name="CircleFlowIndicator"><attr format="color" name="activeColor"/><attr format="color" name="inactiveColor"/><attr format="dimension" name="radius"/><attr format="dimension" name="spacing"/><attr format="boolean" name="centered"/><attr format="integer" name="fadeOut"/><attr name="inactiveType"><flag name="stroke" value="0"/><flag name="fill" value="1"/></attr><attr name="activeType"><flag name="stroke" value="0"/><flag name="fill" value="1"/></attr><attr format="dimension" name="circleSeparation"/><attr format="dimension" name="activeRadius"/></declare-styleable>
     <declare-styleable name="FlowLayout"><attr format="dimension" name="horizontalSpacing"/><attr format="dimension" name="verticalSpacing"/></declare-styleable>
@@ -14,6 +16,10 @@
     <string name="action_settings">Settings</string>
     <string name="app_name">MyMap</string>
     <string name="hello_world">Hello world!</string>
+    <string name="map">地图</string>
+    <string name="more">更多</string>
+    <string name="weather">天气</string>
+    <string name="zhinanzheng">导航</string>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
             Theme customizations available in newer API levels can go in

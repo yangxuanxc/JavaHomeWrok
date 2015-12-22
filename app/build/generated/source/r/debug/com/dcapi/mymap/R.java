@@ -505,6 +505,10 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
          */
         public static final int viewBehindRight=0x7f010015;
     }
+    public static final class color {
+        public static final int gray=0x7f060000;
+        public static final int white=0x7f060001;
+    }
     public static final class dimen {
         public static final int activity_horizontal_margin=0x7f040000;
         public static final int activity_vertical_margin=0x7f040001;
@@ -517,22 +521,29 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int ic_launcher=0x7f020004;
         public static final int index_logo=0x7f020005;
         public static final int index_logo1=0x7f020006;
+        public static final int radio_pressed=0x7f020007;
     }
     public static final class id {
-        public static final int action_settings=0x7f08000d;
-        public static final int both=0x7f080002;
-        public static final int fill=0x7f080000;
-        public static final int framelayout=0x7f080007;
-        public static final int fullscreen=0x7f080005;
-        public static final int fullscreen_content=0x7f08000a;
-        public static final int imgView=0x7f08000c;
-        public static final int iv_failed=0x7f08000b;
-        public static final int left=0x7f080003;
-        public static final int margin=0x7f080006;
-        public static final int right=0x7f080004;
-        public static final int stroke=0x7f080001;
-        public static final int viewflow=0x7f080008;
-        public static final int viewflowindic=0x7f080009;
+        public static final int action_settings=0x7f090013;
+        public static final int both=0x7f090002;
+        public static final int fill=0x7f090000;
+        public static final int frame=0x7f09000a;
+        public static final int framelayout=0x7f090007;
+        public static final int fullscreen=0x7f090005;
+        public static final int fullscreen_content=0x7f090010;
+        public static final int imgView=0x7f090012;
+        public static final int iv_failed=0x7f090011;
+        public static final int left=0x7f090003;
+        public static final int map=0x7f09000c;
+        public static final int margin=0x7f090006;
+        public static final int more=0x7f09000f;
+        public static final int radiogroup=0x7f09000b;
+        public static final int right=0x7f090004;
+        public static final int stroke=0x7f090001;
+        public static final int viewflow=0x7f090008;
+        public static final int viewflowindic=0x7f090009;
+        public static final int weather=0x7f09000e;
+        public static final int zhinanzheng=0x7f09000d;
     }
     public static final class layout {
         public static final int activity_first_time_in=0x7f030000;
@@ -541,12 +552,16 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int image_item=0x7f030003;
     }
     public static final class menu {
-        public static final int main=0x7f070000;
+        public static final int main=0x7f080000;
     }
     public static final class string {
-        public static final int action_settings=0x7f060000;
-        public static final int app_name=0x7f060001;
-        public static final int hello_world=0x7f060002;
+        public static final int action_settings=0x7f070000;
+        public static final int app_name=0x7f070001;
+        public static final int hello_world=0x7f070002;
+        public static final int map=0x7f070003;
+        public static final int more=0x7f070004;
+        public static final int weather=0x7f070005;
+        public static final int zhinanzheng=0x7f070006;
     }
     public static final class style {
         /**  API 11 theme customizations can go here. 
