@@ -1,6 +1,30 @@
 [
     {
-        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\index_logo.jpg",
-        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\index_logo.jpg"
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\first_time_post_2.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\first_time_post_2.png"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\index_logo.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\index_logo.png"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\index_logo1.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\index_logo1.png"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\first_time_post_3.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\first_time_post_3.png"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\first_time_post_4.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\first_time_post_4.png"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\first_time_post_1.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\first_time_post_1.png"
     }
 ]

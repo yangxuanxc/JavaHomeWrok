@@ -12,7 +12,7 @@
         android:gravity="center"
         android:keepScreenOn="true"
         android:scaleType="centerCrop"
-        android:src="@drawable/index_logo"
+        android:src="@drawable/index_logo1"
         android:textColor="#33b5e5"
         android:textSize="50sp"
         android:textStyle="bold" />

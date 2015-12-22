@@ -22,7 +22,8 @@ public class MainActivity extends Activity {
 		//如果App第一次安装，那么就运行FirstTimeInActivity.class并且把first设置yes
 		//否则直接运行
 		if (sp.getString("first", "").equals("")) {
-			editor.putString("first", "yes");
+			//测试阶段，后一个参数实际中为 yes，现在改为空进行测试
+			editor.putString("first", "");
 			editor.commit();
 			startActivity(new Intent(this, FirstTimeInActivity.class));
 		}

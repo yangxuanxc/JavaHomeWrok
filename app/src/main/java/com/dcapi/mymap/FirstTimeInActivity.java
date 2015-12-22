@@ -16,6 +16,7 @@ import android.view.ViewGroup;
 import android.view.Window;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
+import com.dcapi.mymap.R;
 
 public class FirstTimeInActivity extends Activity {
 	/** Called when the activity is first created. */

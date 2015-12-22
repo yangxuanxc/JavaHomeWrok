@@ -22,7 +22,7 @@ public class AppStartActivity extends Activity {
 			public void run() {
 				try {
 					//首页启动图片显示2秒后跳转
-					Thread.sleep(2);
+					Thread.sleep(2000);
 				} catch (InterruptedException e) {
 				}
 				runOnUiThread(new Runnable() {
