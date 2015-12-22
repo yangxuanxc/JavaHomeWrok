@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ButtonBarContainerTheme"><attr format="reference" name="buttonBarStyle"/><attr format="reference" name="buttonBarButtonStyle"/></declare-styleable>
+    <declare-styleable name="CircleFlowIndicator"><attr format="color" name="activeColor"/><attr format="color" name="inactiveColor"/><attr format="dimension" name="radius"/><attr format="dimension" name="spacing"/><attr format="boolean" name="centered"/><attr format="integer" name="fadeOut"/><attr name="inactiveType"><flag name="stroke" value="0"/><flag name="fill" value="1"/></attr><attr name="activeType"><flag name="stroke" value="0"/><flag name="fill" value="1"/></attr><attr format="dimension" name="circleSeparation"/><attr format="dimension" name="activeRadius"/></declare-styleable>
+    <declare-styleable name="FlowLayout"><attr format="dimension" name="horizontalSpacing"/><attr format="dimension" name="verticalSpacing"/></declare-styleable>
+    <declare-styleable name="FlowLayout_LayoutParams"><attr format="boolean" name="layout_breakLine"/><attr format="dimension" name="layout_horizontalSpacing"/></declare-styleable>
+    <declare-styleable name="RoundAngleImageView"><attr format="dimension" name="roundWidth"/><attr format="dimension" name="roundHeight"/></declare-styleable>
+    <declare-styleable name="SlidingMenu"><attr name="mode"><enum name="left" value="4"/><enum name="right" value="5"/><enum name="both" value="6"/></attr><attr format="reference" name="viewAbove"/><attr format="reference" name="viewBehindLeft"/><attr format="reference" name="viewBehindRight"/><attr format="dimension" name="behindOffset"/><attr format="dimension" name="behindWidth"/><attr format="float" name="behindScrollScale"/><attr name="touchModeAbove"><enum name="margin" value="0"/><enum name="fullscreen" value="1"/></attr><attr name="touchModeBehind"><enum name="margin" value="0"/><enum name="fullscreen" value="1"/></attr><attr format="reference" name="shadowDrawable"/><attr format="dimension" name="shadowWidth"/><attr format="boolean" name="behindFadeEnabled"/><attr format="float" name="behindFadeDegree"/><attr format="boolean" name="selectorEnabled"/><attr format="reference" name="selectorDrawable"/></declare-styleable>
+    <declare-styleable name="TitleFlowIndicator"><attr format="dimension" name="titlePadding"/><attr format="dimension" name="clipPadding"/><attr format="color" name="selectedColor"/><attr format="boolean" name="selectedBold"/><attr format="dimension" name="selectedSize"/><attr format="color" name="textColor"/><attr format="dimension" name="textSize"/><attr format="dimension" name="footerLineHeight"/><attr format="color" name="footerColor"/><attr format="dimension" name="footerTriangleHeight"/><attr format="string" name="customTypeface"/></declare-styleable>
+    <declare-styleable name="ViewFlow"><attr format="integer" name="sidebuffer"/></declare-styleable>
+    <declare-styleable name="ViewPagerExtensions"><attr format="integer" name="fadeOutDelay"/><attr format="integer" name="fadeOutDuration"/><attr format="color" name="textColorSelected"/><attr format="color" name="lineColor"/><attr format="color" name="lineColorSelected"/><attr format="dimension" name="lineHeight"/><attr format="dimension" name="lineHeightSelected"/><attr format="color" name="dividerColor"/><attr format="dimension" name="dividerMarginTop"/><attr format="dimension" name="dividerMarginBottom"/><attr format="reference" name="dividerDrawable"/><attr format="dimension" name="outsideOffset"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">MyMap</string>
+    <string name="hello_world">Hello world!</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

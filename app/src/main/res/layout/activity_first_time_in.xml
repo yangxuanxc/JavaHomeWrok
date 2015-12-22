@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.example.splashandfirstopen"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:id="@+id/framelayout"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff" >
+        <!-- 滑动效果图 -->
+        <org.taptwo.android.widget.ViewFlow
+            android:id="@+id/viewflow"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+        </org.taptwo.android.widget.ViewFlow>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:background="#00252525"
+            android:gravity="center"
+            android:padding="3dip" >
+
+            <org.taptwo.android.widget.CircleFlowIndicator
+                android:id="@+id/viewflowindic"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|bottom"
+                android:padding="2dip"
+                app:activeColor="#ffffff"
+                app:activeType="fill"
+                app:circleSeparation="20dip"
+                app:inactiveColor="#77ffffff"
+                app:inactiveType="fill"
+                app:radius="4dip" />
+        </LinearLayout>
+        
+    </FrameLayout>
+
+</LinearLayout>

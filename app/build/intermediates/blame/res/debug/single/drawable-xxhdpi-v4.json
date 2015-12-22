@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\index_logo.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable-xxhdpi\\index_logo.png"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\index_logo1.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable-xxhdpi\\index_logo1.png"
+    }
+]
