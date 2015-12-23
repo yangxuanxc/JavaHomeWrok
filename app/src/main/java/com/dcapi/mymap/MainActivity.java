@@ -9,9 +9,9 @@ import android.content.SharedPreferences.Editor;
 import android.os.Bundle;
 import android.widget.RadioGroup;
 
-import com.dcapi.map.MapMainActivity;
+import com.dcapi.picturegame.PicGameMainActivity;
 import com.dcapi.more.MoreMainActivity;
-import com.dcapi.weather.WeatherMainActivity;
+import com.dcapi.luckdraw.LuckDrawMainActivity;
 import com.dcapi.zhinanzheng.ZhinanzhengMainActivity;
 
 
@@ -45,7 +45,7 @@ public class MainActivity extends Activity implements RadioGroup.OnCheckedChange
 
 		switch (checkedId) {
 			case R.id.map: {
-				Intent intent=new Intent(this, MapMainActivity.class);
+				Intent intent=new Intent(this, PicGameMainActivity.class);
 				startActivity(intent);
 				break;
 
@@ -57,7 +57,7 @@ public class MainActivity extends Activity implements RadioGroup.OnCheckedChange
 
 			}
 			case R.id.weather: {
-				Intent intent=new Intent(this, WeatherMainActivity.class);
+				Intent intent=new Intent(this, LuckDrawMainActivity.class);
 				startActivity(intent);
 				break;
 

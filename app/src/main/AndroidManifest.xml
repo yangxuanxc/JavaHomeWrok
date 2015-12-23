@@ -32,9 +32,9 @@
         <activity
             android:name=".FirstTimeInActivity"
             android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen" />
-        <activity android:name="com.dcapi.map.MapMainActivity" />
+        <activity android:name="com.dcapi.picturegame.PicGameMainActivity" />
         <activity android:name="com.dcapi.zhinanzheng.ZhinanzhengMainActivity" />
-        <activity android:name="com.dcapi.weather.WeatherMainActivity" />
+        <activity android:name="com.dcapi.luckdraw.LuckDrawMainActivity" />
         <activity android:name="com.dcapi.more.MoreMainActivity"></activity>
     </application>
 

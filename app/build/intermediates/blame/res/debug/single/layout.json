@@ -24,11 +24,11 @@
         "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\layout\\image_item.xml"
     },
     {
-        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_first_time_in.xml",
-        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\layout\\activity_first_time_in.xml"
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_picgame_main.xml",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\layout\\activity_picgame_main.xml"
     },
     {
-        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_map_main.xml",
-        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\layout\\activity_map_main.xml"
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_first_time_in.xml",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\layout\\activity_first_time_in.xml"
     }
 ]

@@ -1,15 +1,15 @@
-package com.dcapi.map;
+package com.dcapi.luckdraw;
 
 import android.app.Activity;
 import android.os.Bundle;
 
 import com.dcapi.mymap.R;
 
-public class MapMainActivity extends Activity {
+public class LuckDrawMainActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_map_main);
+        setContentView(R.layout.activity_luckdraw_main);
     }
 }

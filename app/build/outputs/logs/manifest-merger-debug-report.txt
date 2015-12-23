@@ -77,10 +77,10 @@ ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:32:9-34:80
 		ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:34:13-77
 	android:name
 		ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:33:13-48
-activity#com.dcapi.map.MapMainActivity
-ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:35:9-66
+activity#com.dcapi.picturegame.PicGameMainActivity
+ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:35:9-78
 	android:name
-		ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:35:19-63
+		ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:35:19-75
 activity#com.dcapi.zhinanzheng.ZhinanzhengMainActivity
 ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:36:9-82
 	android:name
