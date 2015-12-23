@@ -219,7 +219,7 @@ public class GamePintuLayout extends RelativeLayout implements View.OnClickListe
         {
             //获取游戏的图片
             mBitmap = BitmapFactory.decodeResource(getResources(),
-                    R.drawable.gamebruce);
+                    R.drawable.bruce);
         }
         /**
          *mItemBitmaps List 进行切图
@@ -341,39 +341,32 @@ public class GamePintuLayout extends RelativeLayout implements View.OnClickListe
         }
         return min;
     }
-    //先后点击的两个 ImageView
+
     private ImageView mFirst;
     private ImageView mSecond;
-    /**
-     * 处理图片点击事件
-     *
-     * */
+
     @Override
     public void onClick(View v)
     {
         if (isAniming)
             return;
 
+        // 两次点击同一个Item
+        if (mFirst == v)
+        {
+            mFirst.setColorFilter(null);
+            mFirst = null;
+            return;
+        }
         if (mFirst == null)
         {
-            //如果第一个没有点击，为空，那么再次点击。
             mFirst = (ImageView) v;
-            //设置选中状态，透明的橙色
             mFirst.setColorFilter(Color.parseColor("#55FF0000"));
-        } else//此时那么第二次点击就产生交换了
+        } else
         {
             mSecond = (ImageView) v;
             // 交换我们的Item
             exchangeView();
-        }
-
-        // 两次点击同一个Item
-        if (mFirst == v)
-        {
-            //
-            mFirst.setColorFilter(null);
-            mFirst = null;
-            return;
         }
 
     }
@@ -385,12 +378,12 @@ public class GamePintuLayout extends RelativeLayout implements View.OnClickListe
     private boolean isAniming;
 
     /**
-     * 交换Item
+     * 交换我们的Item
      */
     private void exchangeView()
     {
         mFirst.setColorFilter(null);
-        // 构造动画层
+        // 构造我们的动画层
         setUpAnimLayout();
 
         ImageView first = new ImageView(getContext());
@@ -493,7 +486,7 @@ public class GamePintuLayout extends RelativeLayout implements View.OnClickListe
             isGameSuccess = true;
             mHandler.removeMessages(TIME_CHANGED);
 
-            Toast.makeText(getContext(), "成功啦！ ， 挑战下一关 !!!",
+            Toast.makeText(getContext(), "Success ， level up !!!",
                     Toast.LENGTH_LONG).show();
             mHandler.sendEmptyMessage(NEXT_LEVEL);
         }
