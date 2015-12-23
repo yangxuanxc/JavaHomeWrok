@@ -10,6 +10,6 @@ public class ZhinanzhengMainActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_zhinanzheng_main);
+        setContentView(R.layout.activity_talk_main);
     }
 }

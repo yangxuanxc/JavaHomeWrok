@@ -6,7 +6,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="picgame">拼图</string>
     <string name="luckdraw">抽奖</string>
-    <string name="weather">天气</string>
-    <string name="more">更多</string>
+    <string name="talk">聊天</string>
+    <string name="more">新闻</string>
 
 </resources>
