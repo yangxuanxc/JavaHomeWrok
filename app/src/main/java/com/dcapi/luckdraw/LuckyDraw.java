@@ -38,8 +38,8 @@ public class LuckyDraw extends SurfaceView implements Callback, Runnable {
     /**
      * 抽奖的文字
      */
-    private String[] mStrs = new String[]{"单反相机", "IPAD", "恭喜发财", "IPHONE",
-            "妹子一只", "恭喜发财"};
+    private String[] mStrs = new String[]{"袁泽林", "王鹏", "杨旋", "朱衍丞",
+            "王运里", "再来一次"};
     /**
      * 每个盘块的颜色
      */
@@ -48,9 +48,9 @@ public class LuckyDraw extends SurfaceView implements Callback, Runnable {
     /**
      * 与文字对应的图片
      */
-    private int[] mImgs = new int[]{R.drawable.danfan, R.drawable.ipad,
-            R.drawable.f040, R.drawable.iphone, R.drawable.meizi,
-            R.drawable.f040};
+    private int[] mImgs = new int[]{R.drawable.yuanzelin, R.drawable.wangpeng,
+            R.drawable.yangxuan, R.drawable.zhuyancheng, R.drawable.wangyunli,
+            R.drawable.again};
 
     /**
      * 与文字对应图片的bitmap数组
@@ -335,7 +335,7 @@ public class LuckyDraw extends SurfaceView implements Callback, Runnable {
     private void drawIcon(float startAngle, int i)
     {
         // 设置图片的宽度为直径的1/8
-        int imgWidth = mRadius / 8;
+        int imgWidth = mRadius / 6;
 
         float angle = (float) ((30 + startAngle) * (Math.PI / 180));
 
