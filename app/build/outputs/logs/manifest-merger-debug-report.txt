@@ -29,18 +29,18 @@ ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:8:5-11:39
 		ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:9:9-35
 		INJECTED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml
 		INJECTED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml
-android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:13:5-89
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:13:5-81
 	android:name
-		ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:13:30-86
-android:uses-permission#android.permission.READ_PHONE_STATE
-ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:14:5-83
+		ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:14:5-75
 	android:name
-		ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:14:30-80
-android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:15:5-88
+		ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:15:5-80
 	android:name
-		ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:15:30-85
+		ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:15:22-77
 application
 ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:17:5-39:19
 	android:label
