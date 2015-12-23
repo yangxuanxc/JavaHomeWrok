@@ -486,7 +486,7 @@ public class GamePintuLayout extends RelativeLayout implements View.OnClickListe
             isGameSuccess = true;
             mHandler.removeMessages(TIME_CHANGED);
 
-            Toast.makeText(getContext(), "Success ， level up !!!",
+            Toast.makeText(getContext(), "过关了， 请挑战下一关 !!!",
                     Toast.LENGTH_LONG).show();
             mHandler.sendEmptyMessage(NEXT_LEVEL);
         }
