@@ -274,10 +274,33 @@ public class LuckyDraw extends SurfaceView implements Callback, Runnable {
      *
      * @param
      */
-    public void luckyStart()
+    /**
+     * 点击开始旋转
+     *
+     * @param luckyIndex
+     */
+    public void luckyStart(int luckyIndex)
     {
-        mSpeed=50;
-        isShouldEnd=false;
+        // 每项角度大小
+        float angle = (float) (360 / mItemCount);
+        // 中奖角度范围（因为指针向上，所以水平第一项旋转到指针指向，需要旋转210-270；）
+        float from = 270 - (luckyIndex + 1) * angle;
+        float to = from + angle;
+        // 停下来时旋转的距离
+        float targetFrom = 4 * 360 + from;
+        /**
+         * <pre>
+         *  (v1 + 0) * (v1+1) / 2 = target ;
+         *  v1*v1 + v1 - 2target = 0 ;
+         *  v1=-1+(1*1 + 8 *1 * target)/2;
+         * </pre>
+         */
+        float v1 = (float) (Math.sqrt(1 * 1 + 8 * 1 * targetFrom) - 1) / 2;
+        float targetTo = 4 * 360 + to;
+        float v2 = (float) (Math.sqrt(1 * 1 + 8 * 1 * targetTo) - 1) / 2;
+
+        mSpeed = (float) (v1 + Math.random() * (v2 - v1));
+        isShouldEnd = false;
     }
 
     public void luckyEnd()

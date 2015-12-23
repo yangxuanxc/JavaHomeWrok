@@ -26,7 +26,8 @@ public class LuckDrawMainActivity extends Activity {
             public void onClick(View v) {
                 if (!mLuckyPanView.isStart()) {
                     mStartBtn.setImageResource(R.drawable.stop);
-                    mLuckyPanView.luckyStart();
+                    //传入几就是几，现在产生随机数
+                    mLuckyPanView.luckyStart((int)(Math.random()*5));
                 } else {
                     if (!mLuckyPanView.isShouldEnd())
 
