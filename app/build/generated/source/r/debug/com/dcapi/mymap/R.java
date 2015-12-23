@@ -514,42 +514,53 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int activity_vertical_margin=0x7f040001;
     }
     public static final class drawable {
-        public static final int bruce=0x7f020000;
-        public static final int first_time_post_1=0x7f020001;
-        public static final int first_time_post_2=0x7f020002;
-        public static final int first_time_post_3=0x7f020003;
-        public static final int first_time_post_4=0x7f020004;
-        public static final int gamebk=0x7f020005;
-        public static final int ic_launcher=0x7f020006;
-        public static final int index_logo1=0x7f020007;
-        public static final int radio_pressed=0x7f020008;
-        public static final int textbg=0x7f020009;
+        public static final int bg2=0x7f020000;
+        public static final int bruce=0x7f020001;
+        public static final int danfan=0x7f020002;
+        public static final int f015=0x7f020003;
+        public static final int f040=0x7f020004;
+        public static final int first_time_post_1=0x7f020005;
+        public static final int first_time_post_2=0x7f020006;
+        public static final int first_time_post_3=0x7f020007;
+        public static final int first_time_post_4=0x7f020008;
+        public static final int gamebk=0x7f020009;
+        public static final int ic_launcher=0x7f02000a;
+        public static final int index_logo1=0x7f02000b;
+        public static final int ipad=0x7f02000c;
+        public static final int iphone=0x7f02000d;
+        public static final int meizi=0x7f02000e;
+        public static final int radio_pressed=0x7f02000f;
+        public static final int start=0x7f020010;
+        public static final int stop=0x7f020011;
+        public static final int textbg=0x7f020012;
     }
     public static final class id {
-        public static final int action_settings=0x7f090017;
+        public static final int action_settings=0x7f090019;
         public static final int both=0x7f090002;
         public static final int fill=0x7f090000;
-        public static final int frame=0x7f09000a;
+        public static final int frame=0x7f09000c;
         public static final int framelayout=0x7f090007;
         public static final int fullscreen=0x7f090005;
-        public static final int fullscreen_content=0x7f090014;
-        public static final int id_gamepintu=0x7f090011;
-        public static final int id_level=0x7f090012;
-        public static final int id_time=0x7f090013;
-        public static final int imgView=0x7f090016;
-        public static final int iv_failed=0x7f090015;
+        public static final int fullscreen_content=0x7f090016;
+        public static final int id_gamepintu=0x7f090013;
+        public static final int id_level=0x7f090014;
+        public static final int id_luckypan=0x7f09000a;
+        public static final int id_start_btn=0x7f09000b;
+        public static final int id_time=0x7f090015;
+        public static final int imgView=0x7f090018;
+        public static final int iv_failed=0x7f090017;
         public static final int left=0x7f090003;
-        public static final int luckdraw=0x7f09000d;
+        public static final int luckdraw=0x7f09000f;
         public static final int margin=0x7f090006;
-        public static final int more=0x7f09000f;
-        public static final int picgame=0x7f09000c;
-        public static final int radiogroup=0x7f09000b;
+        public static final int more=0x7f090011;
+        public static final int picgame=0x7f09000e;
+        public static final int radiogroup=0x7f09000d;
         public static final int right=0x7f090004;
         public static final int stroke=0x7f090001;
         public static final int viewflow=0x7f090008;
         public static final int viewflowindic=0x7f090009;
-        public static final int webView=0x7f090010;
-        public static final int zhinanzheng=0x7f09000e;
+        public static final int webView=0x7f090012;
+        public static final int zhinanzheng=0x7f090010;
     }
     public static final class layout {
         public static final int activity_first_time_in=0x7f030000;

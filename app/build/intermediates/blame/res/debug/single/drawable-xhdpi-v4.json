@@ -1,6 +1,42 @@
 [
     {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\danfan.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable-xhdpi\\danfan.png"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\stop.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable-xhdpi\\stop.png"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\f040.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable-xhdpi\\f040.png"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg2.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable-xhdpi\\bg2.png"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\start.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable-xhdpi\\start.png"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iphone.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable-xhdpi\\iphone.png"
+    },
+    {
         "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
         "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\meizi.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable-xhdpi\\meizi.png"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ipad.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable-xhdpi\\ipad.png"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\f015.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable-xhdpi\\f015.png"
     }
 ]
