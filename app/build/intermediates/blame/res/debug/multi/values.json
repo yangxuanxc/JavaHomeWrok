@@ -91,8 +91,27 @@
                     "startLine": 18,
                     "startColumn": 4,
                     "startOffset": 3915,
+                    "endColumn": 39,
+                    "endOffset": 3950
+                },
+                "from": {
+                    "file": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 251,
+                        "endColumn": 39,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 3955,
                     "endColumn": 35,
-                    "endOffset": 3946
+                    "endOffset": 3986
                 },
                 "from": {
                     "file": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\values\\strings.xml"
@@ -100,30 +119,11 @@
             },
             {
                 "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 3951,
-                    "endColumn": 38,
-                    "endOffset": 3985
-                },
-                "from": {
-                    "file": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 211,
-                        "endColumn": 38,
-                        "endOffset": 245
-                    }
-                }
-            },
-            {
-                "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 3990,
+                    "startOffset": 3991,
                     "endColumn": 38,
-                    "endOffset": 4024
+                    "endOffset": 4025
                 },
                 "from": {
                     "file": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\values\\strings.xml"
@@ -133,9 +133,9 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 4029,
-                    "endColumn": 42,
-                    "endOffset": 4067
+                    "startOffset": 4030,
+                    "endColumn": 38,
+                    "endOffset": 4064
                 },
                 "from": {
                     "file": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\values\\strings.xml"
@@ -145,10 +145,10 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 4072,
+                    "startOffset": 4069,
                     "endLine": 28,
                     "endColumn": 12,
-                    "endOffset": 4358
+                    "endOffset": 4355
                 },
                 "from": {
                     "file": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\values\\styles.xml"
@@ -158,10 +158,10 @@
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 4363,
+                    "startOffset": 4360,
                     "endLine": 31,
                     "endColumn": 12,
-                    "endOffset": 4518
+                    "endOffset": 4515
                 },
                 "from": {
                     "file": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\values\\styles.xml"

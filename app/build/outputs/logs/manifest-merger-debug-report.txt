@@ -85,10 +85,10 @@ activity#com.dcapi.zhinanzheng.ZhinanzhengMainActivity
 ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:36:9-82
 	android:name
 		ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:36:19-79
-activity#com.dcapi.weather.WeatherMainActivity
-ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:37:9-74
+activity#com.dcapi.luckdraw.LuckDrawMainActivity
+ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:37:9-76
 	android:name
-		ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:37:19-71
+		ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:37:19-73
 activity#com.dcapi.more.MoreMainActivity
 ADDED from D:\code\Worksapce\mymap\app\src\main\AndroidManifest.xml:38:9-77
 	android:name

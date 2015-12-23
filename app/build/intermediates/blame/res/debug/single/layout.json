@@ -4,16 +4,16 @@
         "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\layout\\activity_splash.xml"
     },
     {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_luckdraw_main.xml",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\layout\\activity_luckdraw_main.xml"
+    },
+    {
         "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_more_main.xml",
         "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\layout\\activity_more_main.xml"
     },
     {
         "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_weather_main.xml",
-        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\layout\\activity_weather_main.xml"
     },
     {
         "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zhinanzheng_main.xml",

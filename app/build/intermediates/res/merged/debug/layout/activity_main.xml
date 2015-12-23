@@ -24,7 +24,7 @@
         android:orientation="horizontal">
 
         <RadioButton
-            android:id="@+id/map"
+            android:id="@+id/picgame"
             android:button="@null"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
@@ -34,7 +34,17 @@
             android:drawableTop="@drawable/ic_launcher"
             android:text="@string/picgame"
             />
-
+        <RadioButton
+            android:id="@+id/luckdraw"
+            android:layout_width="0dp"
+            android:button="@null"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:background="@drawable/radio_pressed"
+            android:drawableTop="@drawable/ic_launcher"
+            android:text="@string/luckdraw"
+            />
         <RadioButton
             android:id="@+id/zhinanzheng"
             android:layout_width="0dp"
@@ -44,19 +54,9 @@
             android:gravity="center_horizontal"
             android:background="@drawable/radio_pressed"
             android:drawableTop="@drawable/ic_launcher"
-            android:text="@string/zhinanzheng"
+            android:text="@string/more"
             />
-        <RadioButton
-            android:id="@+id/weather"
-            android:layout_width="0dp"
-            android:button="@null"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:gravity="center_horizontal"
-            android:background="@drawable/radio_pressed"
-            android:drawableTop="@drawable/ic_launcher"
-            android:text="@string/weather"
-            />
+
         <RadioButton
             android:id="@+id/more"
             android:layout_width="0dp"

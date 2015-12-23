@@ -44,7 +44,7 @@ public class MainActivity extends Activity implements RadioGroup.OnCheckedChange
 		// TODO Auto-generated method stub
 
 		switch (checkedId) {
-			case R.id.map: {
+			case R.id.picgame: {
 				Intent intent=new Intent(this, PicGameMainActivity.class);
 				startActivity(intent);
 				break;
@@ -56,7 +56,7 @@ public class MainActivity extends Activity implements RadioGroup.OnCheckedChange
 				break;
 
 			}
-			case R.id.weather: {
+			case R.id.luckdraw: {
 				Intent intent=new Intent(this, LuckDrawMainActivity.class);
 				startActivity(intent);
 				break;

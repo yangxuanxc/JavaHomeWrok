@@ -8,6 +8,10 @@
         "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\first_time_post_2.png"
     },
     {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bruce.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\bruce.png"
+    },
+    {
         "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\index_logo.png",
         "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\index_logo.png"
     },
