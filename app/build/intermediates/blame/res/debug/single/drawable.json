@@ -12,6 +12,10 @@
         "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\index_logo1.jpg"
     },
     {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gamebk1.jpg",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\gamebk1.jpg"
+    },
+    {
         "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textbg.xml",
         "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\textbg.xml"
     },
