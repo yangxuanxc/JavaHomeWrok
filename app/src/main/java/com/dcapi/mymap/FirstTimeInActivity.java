@@ -46,7 +46,7 @@ public class FirstTimeInActivity extends Activity {
 		return super.onKeyDown(keyCode, event);
 	}
 	//要显示的图片
-	public int[] ids = { R.drawable.first_time_post_1, R.drawable.first_time_post_2, R.drawable.first_time_post_3, R.drawable.first_time_post_4 };
+	public int[] ids = { R.drawable.first_time_post_1, R.drawable.first_time_post_2, R.drawable.first_time_post_3, R.drawable.first_time_post_4,  R.drawable.first_time_post_5};
 
 	class DemoPic extends BaseAdapter {
 		private LayoutInflater mInflater;

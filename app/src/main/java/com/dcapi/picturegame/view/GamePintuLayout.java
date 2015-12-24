@@ -27,6 +27,7 @@ import com.dcapi.picturegame.picutils.ImageSplitterUtil;
  * 自定义容器，对应游戏界面的布局
  */
 public class GamePintuLayout extends RelativeLayout implements View.OnClickListener {
+    public int[]  strGamePicBackground = {R.drawable.gamebk1,R.drawable.gamebk2,R.drawable.gamebk3,R.drawable.gamebk4};
     // 初始情况下，游戏第一关，是切成三行三列的
     private int mColumn = 3;
     //容器的内边距
@@ -219,7 +220,7 @@ public class GamePintuLayout extends RelativeLayout implements View.OnClickListe
         {
             //获取游戏的图片
             mBitmap = BitmapFactory.decodeResource(getResources(),
-                    R.drawable.bruce);
+                    strGamePicBackground[(int)(Math.random()*3)]);
         }
         /**
          *mItemBitmaps List 进行切图

@@ -8,10 +8,6 @@
         "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\first_time_post_2.png"
     },
     {
-        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bruce.png",
-        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\bruce.png"
-    },
-    {
         "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textbg.xml",
         "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\textbg.xml"
     },
@@ -24,16 +20,24 @@
         "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\index_logo1.png"
     },
     {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\first_time_post_5.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\first_time_post_5.png"
+    },
+    {
         "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gamebk.jpg",
         "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\gamebk.jpg"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gamebk3.jpg",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\gamebk3.jpg"
     },
     {
         "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\first_time_post_3.png",
         "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\first_time_post_3.png"
     },
     {
-        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\first_time_post_11.png",
-        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\first_time_post_11.png"
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gamebk1.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\gamebk1.png"
     },
     {
         "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\first_time_post_4.png",
@@ -44,7 +48,15 @@
         "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\radio_pressed.xml"
     },
     {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gamebk4.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\gamebk4.png"
+    },
+    {
         "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\first_time_post_1.png",
         "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\first_time_post_1.png"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gamebk2.jpg",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\gamebk2.jpg"
     }
 ]
