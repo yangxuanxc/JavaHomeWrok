@@ -12,6 +12,10 @@
         "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\index_logo1.jpg"
     },
     {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gamebk1.jpg",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\gamebk1.jpg"
+    },
+    {
         "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textbg.xml",
         "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\textbg.xml"
     },
@@ -58,6 +62,10 @@
     {
         "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gamebk4.png",
         "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\gamebk4.png"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gamebk2.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\gamebk2.png"
     },
     {
         "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\first_time_post_1.png",
