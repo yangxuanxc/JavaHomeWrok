@@ -77,7 +77,7 @@ public class FirstTimeInActivity extends Activity {
 			}
 
 			((ImageView) convertView.findViewById(R.id.imgView)).setImageResource(ids[position % ids.length]);
-			if (position == 3) {
+			if (position == 4) {
 				convertView.setOnClickListener(new OnClickListener() {
 
 					@Override
