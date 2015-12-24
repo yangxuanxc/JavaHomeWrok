@@ -548,24 +548,29 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int zhuyancheng=0x7f02001f;
     }
     public static final class id {
-        public static final int action_settings=0x7f09001d;
+        public static final int action_settings=0x7f090022;
         public static final int both=0x7f090002;
         public static final int fill=0x7f090000;
         public static final int frame=0x7f09000c;
         public static final int framelayout=0x7f090007;
         public static final int fullscreen=0x7f090005;
         public static final int fullscreen_content=0x7f090016;
-        public static final int id_form_msg_date=0x7f090019;
-        public static final int id_from_msg_info=0x7f09001a;
+        public static final int id_form_msg_date=0x7f09001e;
+        public static final int id_from_msg_info=0x7f09001f;
         public static final int id_gamepintu=0x7f090013;
+        public static final int id_input_msg=0x7f09001a;
         public static final int id_level=0x7f090014;
+        public static final int id_listview_msgs=0x7f09001b;
         public static final int id_luckypan=0x7f09000a;
+        public static final int id_ly_bottom=0x7f090018;
+        public static final int id_ly_top=0x7f090017;
+        public static final int id_send_msg=0x7f090019;
         public static final int id_start_btn=0x7f09000b;
         public static final int id_time=0x7f090015;
-        public static final int id_to_msg_date=0x7f09001b;
-        public static final int id_to_msg_info=0x7f09001c;
-        public static final int imgView=0x7f090018;
-        public static final int iv_failed=0x7f090017;
+        public static final int id_to_msg_date=0x7f090020;
+        public static final int id_to_msg_info=0x7f090021;
+        public static final int imgView=0x7f09001d;
+        public static final int iv_failed=0x7f09001c;
         public static final int left=0x7f090003;
         public static final int luckdraw=0x7f09000f;
         public static final int margin=0x7f090006;
