@@ -26,7 +26,7 @@
             <ImageView
                 android:layout_width="49dp"
                 android:layout_height="49dp"
-                android:src="@drawable/me" />
+                android:src="@drawable/xyy" />
 
             <TextView
                 android:layout_width="wrap_content"

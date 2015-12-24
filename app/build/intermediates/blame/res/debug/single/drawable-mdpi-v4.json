@@ -32,6 +32,10 @@
         "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable-mdpi\\chatfrom_bg_focused.9.png"
     },
     {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\xyy.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable-mdpi\\xyy.png"
+    },
+    {
         "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\send_btn_normal.9.png",
         "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable-mdpi\\send_btn_normal.9.png"
     },

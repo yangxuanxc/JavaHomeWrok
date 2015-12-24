@@ -98,7 +98,7 @@ public class TalkMainActivity extends Activity {
     private void initDatas()
     {
         mDatas = new ArrayList<ChatMessage>();
-        mDatas.add(new ChatMessage("你好，小慕为您服务", ChatMessage.Type.INCOMING, new Date()));
+        mDatas.add(new ChatMessage("你好，我是北理工小袁袁", ChatMessage.Type.INCOMING, new Date()));
         mAdapter = new ChatMessageAdapter(this, mDatas);
         mMsgs.setAdapter(mAdapter);
     }

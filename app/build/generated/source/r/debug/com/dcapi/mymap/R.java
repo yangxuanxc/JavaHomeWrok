@@ -543,9 +543,10 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int textbg=0x7f02001a;
         public static final int wangpeng=0x7f02001b;
         public static final int wangyunli=0x7f02001c;
-        public static final int yangxuan=0x7f02001d;
-        public static final int yuanzelin=0x7f02001e;
-        public static final int zhuyancheng=0x7f02001f;
+        public static final int xyy=0x7f02001d;
+        public static final int yangxuan=0x7f02001e;
+        public static final int yuanzelin=0x7f02001f;
+        public static final int zhuyancheng=0x7f020020;
     }
     public static final class id {
         public static final int action_settings=0x7f090022;
