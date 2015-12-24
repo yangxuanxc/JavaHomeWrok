@@ -16,16 +16,16 @@
         "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\textbg.xml"
     },
     {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\allbackground.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\allbackground.png"
+    },
+    {
         "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\allbackground.jpg",
         "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\allbackground.jpg"
     },
     {
         "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\index_logo1.png",
         "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\index_logo1.png"
-    },
-    {
-        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\first_time_post_5.png",
-        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\first_time_post_5.png"
     },
     {
         "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gamebk.jpg",

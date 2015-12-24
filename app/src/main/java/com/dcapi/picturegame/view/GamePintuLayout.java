@@ -220,7 +220,7 @@ public class GamePintuLayout extends RelativeLayout implements View.OnClickListe
         {
             //获取游戏的图片
             mBitmap = BitmapFactory.decodeResource(getResources(),
-                    strGamePicBackground[(int)(Math.random()*3)]);
+                    strGamePicBackground[(int)(Math.random()*4%4)]);
         }
         /**
          *mItemBitmaps List 进行切图

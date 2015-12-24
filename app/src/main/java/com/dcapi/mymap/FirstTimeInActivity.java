@@ -46,7 +46,8 @@ public class FirstTimeInActivity extends Activity {
 		return super.onKeyDown(keyCode, event);
 	}
 	//要显示的图片
-	public int[] ids = { R.drawable.first_time_post_1, R.drawable.first_time_post_2, R.drawable.first_time_post_3, R.drawable.first_time_post_4,  R.drawable.first_time_post_5};
+	public int[] ids = { R.drawable.first_time_post_1, R.drawable.first_time_post_2,
+			R.drawable.first_time_post_3, R.drawable.first_time_post_4};
 
 	class DemoPic extends BaseAdapter {
 		private LayoutInflater mInflater;
@@ -77,7 +78,7 @@ public class FirstTimeInActivity extends Activity {
 			}
 
 			((ImageView) convertView.findViewById(R.id.imgView)).setImageResource(ids[position % ids.length]);
-			if (position == 4) {
+			if (position == 3) {
 				convertView.setOnClickListener(new OnClickListener() {
 
 					@Override
