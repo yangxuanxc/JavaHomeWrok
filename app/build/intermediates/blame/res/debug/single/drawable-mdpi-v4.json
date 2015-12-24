@@ -1,6 +1,54 @@
 [
     {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\login_edit_normal.9.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable-mdpi\\login_edit_normal.9.png"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatto_bg_pressed.9.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable-mdpi\\chatto_bg_pressed.9.png"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\send_btn_bg.xml",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable-mdpi\\send_btn_bg.xml"
+    },
+    {
         "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
         "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatfrom_bg_normal.9.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable-mdpi\\chatfrom_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatfrom_bg_pressed.9.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable-mdpi\\chatfrom_bg_pressed.9.png"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_bg_default.jpg",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable-mdpi\\chat_bg_default.jpg"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatfrom_bg_focused.9.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable-mdpi\\chatfrom_bg_focused.9.png"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\send_btn_normal.9.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable-mdpi\\send_btn_normal.9.png"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\me.jpg",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable-mdpi\\me.jpg"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatto_bg_normal.9.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable-mdpi\\chatto_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatto_bg_focused.9.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable-mdpi\\chatto_bg_focused.9.png"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\send_btn_pressed.9.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable-mdpi\\send_btn_pressed.9.png"
     }
 ]

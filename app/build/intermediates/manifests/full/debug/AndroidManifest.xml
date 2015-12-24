@@ -13,11 +13,19 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.INTERNET" />
 
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:label="this is a test "
+        android:targetPackage="com.dcapi.talk" >
+    </instrumentation>
+
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
+        <uses-library android:name="android.test.runner" />
+
         <activity
             android:name="com.dcapi.mymap.AppStartActivity"
             android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen" >
@@ -32,9 +40,10 @@
             android:name="com.dcapi.mymap.FirstTimeInActivity"
             android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen" />
         <activity android:name="com.dcapi.picturegame.PicGameMainActivity" />
-        <activity android:name="com.dcapi.zhinanzheng.ZhinanzhengMainActivity" />
+        <activity android:name="com.dcapi.talk.TalkMainActivity" />
         <activity android:name="com.dcapi.luckdraw.LuckDrawMainActivity" />
-        <activity android:name="com.dcapi.more.MoreMainActivity" />
+        <activity android:name="com.dcapi.more.MoreMainActivity" >
+        </activity>
     </application>
 
 </manifest>

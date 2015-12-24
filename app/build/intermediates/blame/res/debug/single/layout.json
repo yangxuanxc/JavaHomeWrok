@@ -12,8 +12,16 @@
         "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\layout\\activity_more_main.xml"
     },
     {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_from_msg.xml",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\layout\\item_from_msg.xml"
+    },
+    {
         "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_to_msg.xml",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\layout\\item_to_msg.xml"
     },
     {
         "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_item.xml",

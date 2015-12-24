@@ -1,11 +1,11 @@
-package com.dcapi.zhinanzheng;
+package com.dcapi.talk;
 
 import android.app.Activity;
 import android.os.Bundle;
 
 import com.dcapi.mymap.R;
 
-public class ZhinanzhengMainActivity extends Activity {
+public class TalkMainActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

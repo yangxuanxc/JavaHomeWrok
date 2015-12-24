@@ -12,7 +12,7 @@ import android.widget.RadioGroup;
 import com.dcapi.picturegame.PicGameMainActivity;
 import com.dcapi.more.MoreMainActivity;
 import com.dcapi.luckdraw.LuckDrawMainActivity;
-import com.dcapi.zhinanzheng.ZhinanzhengMainActivity;
+import com.dcapi.talk.TalkMainActivity;
 
 
 public class MainActivity extends Activity implements RadioGroup.OnCheckedChangeListener {
@@ -51,7 +51,7 @@ public class MainActivity extends Activity implements RadioGroup.OnCheckedChange
 
 			}
 			case R.id.zhinanzheng: {
-				Intent intent=new Intent(this, ZhinanzhengMainActivity.class);
+				Intent intent=new Intent(this, TalkMainActivity.class);
 				startActivity(intent);
 				break;
 
