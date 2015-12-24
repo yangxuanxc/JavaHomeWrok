@@ -44,6 +44,10 @@
         "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\gamebk1.png"
     },
     {
+        "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\luckbg.png",
+        "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\luckbg.png"
+    },
+    {
         "merged": "D:\\code\\Worksapce\\mymap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\first_time_post_4.png",
         "source": "D:\\code\\Worksapce\\mymap\\app\\src\\main\\res\\drawable\\first_time_post_4.png"
     },

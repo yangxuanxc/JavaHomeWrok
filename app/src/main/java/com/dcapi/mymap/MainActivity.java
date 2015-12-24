@@ -30,7 +30,7 @@ public class MainActivity extends Activity implements RadioGroup.OnCheckedChange
 		//否则直接运行
 		if (sp.getString("first", "").equals("")) {
 			//测试阶段，后一个参数实际中为 yes，现在改为空进行测试
-			editor.putString("first", "");
+			editor.putString("first", "yes");
 			editor.commit();
 			startActivity(new Intent(this, FirstTimeInActivity.class));
 		}
