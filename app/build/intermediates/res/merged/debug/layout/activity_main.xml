@@ -6,6 +6,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/allbackground"
     tools:context=".MainActivity" >
 
     <LinearLayout
@@ -31,7 +32,7 @@
             android:layout_weight="1"
             android:gravity="center_horizontal"
             android:background="@drawable/radio_pressed"
-            android:drawableTop="@drawable/ic_launcher"
+            android:drawableTop="@drawable/gamebottom"
             android:text="@string/picgame"
             />
         <RadioButton
@@ -42,7 +43,7 @@
             android:layout_weight="1"
             android:gravity="center_horizontal"
             android:background="@drawable/radio_pressed"
-            android:drawableTop="@drawable/ic_launcher"
+            android:drawableTop="@drawable/luckbottom"
             android:text="@string/luckdraw"
             />
         <RadioButton
@@ -53,7 +54,7 @@
             android:layout_weight="1"
             android:gravity="center_horizontal"
             android:background="@drawable/radio_pressed"
-            android:drawableTop="@drawable/ic_launcher"
+            android:drawableTop="@drawable/talkbottom"
             android:text="@string/talk"
             />
 
@@ -65,7 +66,7 @@
             android:layout_weight="1"
             android:gravity="center_horizontal"
             android:background="@drawable/radio_pressed"
-            android:drawableTop="@drawable/ic_launcher"
+            android:drawableTop="@drawable/newsbottom"
             android:text="@string/more"
 
         />
