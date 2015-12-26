@@ -352,7 +352,7 @@ public class GamePintuLayout extends RelativeLayout implements View.OnClickListe
         if (isAniming)
             return;
 
-        // 两次点击同一个Item
+        // 两次点击同一个Item，那么就取消选中
         if (mFirst == v)
         {
             mFirst.setColorFilter(null);
@@ -384,7 +384,7 @@ public class GamePintuLayout extends RelativeLayout implements View.OnClickListe
     private void exchangeView()
     {
         mFirst.setColorFilter(null);
-        // 构造我们的动画层
+        // 构造动画层
         setUpAnimLayout();
 
         ImageView first = new ImageView(getContext());
@@ -513,7 +513,7 @@ public class GamePintuLayout extends RelativeLayout implements View.OnClickListe
     }
 
     /**
-     * 构造我们的动画层
+     * 构造动画层
      */
     private void setUpAnimLayout()
     {

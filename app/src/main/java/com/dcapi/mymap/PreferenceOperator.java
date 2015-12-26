@@ -6,7 +6,8 @@ import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
 
 /**
- * 用于记录用户数据到本
+ * Created by Dcapi on 2015/12/19.
+ * 用于记录用户数据
  */
 public class PreferenceOperator {
 	

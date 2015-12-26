@@ -20,7 +20,6 @@ import com.dcapi.mymap.R;
  * Created by Dcapi on 2015/12/23.
  */
 public class LuckyDraw extends SurfaceView implements Callback, Runnable {
-
     private SurfaceHolder mHolder;
     /**
      * 与SurfaceHolder绑定的Canvas
@@ -226,7 +225,7 @@ public class LuckyDraw extends SurfaceView implements Callback, Runnable {
                 drawBg();
 
                 /**
-                 * 绘制每个块块，每个块块上的文本，每个块块上的图片
+                 * 绘制每个块，每个块上的文本，每个块上的图片
                  */
                 float tmpAngle = mStartAngle;
                 float sweepAngle = (float) (360 / mItemCount);

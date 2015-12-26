@@ -12,11 +12,11 @@ public class TestHttpUtils {
     {
         String res = HttpUtils.doGet("给我讲个笑话");
         Log.e("TAG", res);
-        res = HttpUtils.doGet("给我讲个鬼故事");
+        res = HttpUtils.doGet("北京天气");
         Log.e("TAG", res);
         res = HttpUtils.doGet("你好");
         Log.e("TAG", res);
-        res = HttpUtils.doGet("你真美");
+        res = HttpUtils.doGet("你叫什么名字");
         Log.e("TAG", res);
     }
 }
