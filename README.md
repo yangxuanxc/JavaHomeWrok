@@ -1,4 +1,4 @@
- # Android 应用 嗨起来
+# Android 应用 嗨起来
 [apk](/source/1.apk)
 
 ![1](/source/1.png)
