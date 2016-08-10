@@ -1,4 +1,21 @@
-# JavaHomeWrok
-### java程序设计大作业，嗨起来
-###北京理工大学 2013级 计算机科学与技术 杨旋 王忠鑫
+ # Android 应用 嗨起来
+[apk](/source/1.apk)
 
+![1](/source/1.png)
+![2](/source/2.png)
+![3](/source/3.png)
+![4](/source/4.png)
+![5](/source/5.png)
+![6](/source/6.png)
+![7](/source/7.png)
+![8](/source/8.png)
+![9](/source/9.png)
+![10](/source/10.png)
+![11](/source/11.png)
+![12](/source/12.png)
+![13](/source/13.png)
+![14](/source/14.png)
+![15](/source/15.png)
+![16](/source/16.png)
+
+[详细文档](/source/1.pdf)
